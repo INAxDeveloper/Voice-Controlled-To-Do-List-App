@@ -120,5 +120,3 @@ cd VoiceToDoList
 📌 This project is **MIT licensed**, feel free to contribute or modify!  
 
 ---
-
-Would you like a **GitHub repo setup** with this README? 🚀
